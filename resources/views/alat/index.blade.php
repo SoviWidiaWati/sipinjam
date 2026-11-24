@@ -3,7 +3,7 @@
 
 @section('konten')
   <div class="d-flex justify-content-between align-items-center mb-3">
-    <h2 class="h4 m-0">Daftar Alat</h2>
+    <h2 class="h4 m-0">Daftar Alat Laboratorium</h2>
     <a href="{{ route('alat.create') }}" class="btn btn-primary">+ Tambah Alat</a>
   </div>
 
